@@ -21,6 +21,7 @@ I used different concepts of solidity language to write this smart contract like
 Contributors names and contact info:
 
 Manthan Budhe
+
 [@manthan1102](https://github.com/manthan1102)
 
 
